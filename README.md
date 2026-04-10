@@ -102,7 +102,7 @@ Optional:
 Clone the repository:
 
 ```
-git clone https://github.com/akshitakripan-coder/RoleReady-Interactive-Job-Role-Readiness-Dashboard.git
+git clone https://github.com/akshitakripan-coder/RoleReadiness.git
 ```
 
 Navigate into the project directory:
