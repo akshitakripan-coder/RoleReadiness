@@ -108,13 +108,10 @@ git clone https://github.com/akshitakripan-coder/RoleReadiness.git
 Navigate into the project directory:
 
 ```
-cd RoleReady-Interactive-Job-Role-Readiness-Dashboard
+cd RoleReadiness
 ```
 
 No additional dependencies are required because this project is a static web application built using HTML, CSS, and JavaScript.
-
-```
-```
 
 ## **Environment Setup**
 
