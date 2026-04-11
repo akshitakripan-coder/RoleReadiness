@@ -146,7 +146,7 @@ Features demonstrated:
 - Check recommended skills
 - Navigate learning resources
 - Access job guidance sections
-- ## Known Limitations
+- ## Know Insights
 Dashboard readiness insights remain preserved after login and are accessible through the Profile section. Minor session-based navigation behavior may affect direct dashboard rendering immediately after authentication in the current prototype environment.
 
 
